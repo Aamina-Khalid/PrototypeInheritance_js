@@ -1,0 +1,1 @@
+# PrototypeInheritance_js
